@@ -1,0 +1,16 @@
+{
+    "name": "victoryoalli/multipagos-omnipay",
+    "description": "Omnipay gateway for multipagos",
+    "type": "library",
+    "require": {
+        "omnipay/common": "^3",
+        "php-http/buzz-adapter": "^1.0"
+    },
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "Victor Yoalli Dominguez",
+            "email": "victoryoalli@gmail.com"
+        }
+    ]
+}
